@@ -1,4 +1,4 @@
 # discord-unblocked-for-school
 idk why I made this I was bored 
 
-# (use on replit)
+## (use on replit) https://replit.com
