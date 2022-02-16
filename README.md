@@ -1,5 +1,4 @@
-# discord-unblocked-for-school
-idk why I made this I was bored 
+# unblock any website!
 
 ## (use on replit) https://replit.com
 
